@@ -1,3 +1,4 @@
+/* This is a c++ for "Program for object is born" */
 #include<iostream>
 using namespace std;
 class ratio
