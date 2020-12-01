@@ -1,3 +1,4 @@
+/*This is a c++ program to find the area and circumference of a circle */
 #include<iostream>
 using namespace std;
 class circle
