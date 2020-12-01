@@ -6,3 +6,6 @@ changes like-1. "add <conio.h>"
              2. "add getch() and clrscr()".
 			 
 THIS CODE 100% WORKS ON UPDATED C++ VERSIONS. like(g++).
+
+
+NOTE:that heirarchy.cpp is only for roll no 101.
