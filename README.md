@@ -1,2 +1,2 @@
-# C-
+# C++
 Common c++ codes
