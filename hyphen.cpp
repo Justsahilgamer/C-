@@ -1,3 +1,5 @@
+/*This is a c++ program to apply hyphen in your sentence
+example: what-is-your-name?*/
 #include<iostream>
 using namespace std;
 int main()
