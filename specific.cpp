@@ -27,5 +27,5 @@ int main()
     
         cout<<"the number is at position "<<(mid+1);
     else
-       cout<<"the number didn't found= ";
+       cout<<"the number didn't found ";
 }
