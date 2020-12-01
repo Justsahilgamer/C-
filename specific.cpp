@@ -1,3 +1,6 @@
+/*This is a c++ program to find the position of a specific number
+NOTE: this program may contain errors with number 2-9 
+this was just a assignment for me so dont be angry if it wont work :D */
 #include<iostream>
 using namespace std;
 
