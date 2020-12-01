@@ -1,3 +1,6 @@
+/* This is a c++ program for a class hiechary
+this code only works for roll no 101
+ */
 #include<iostream>
 using namespace std;
 class student
