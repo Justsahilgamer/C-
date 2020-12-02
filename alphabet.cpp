@@ -1,4 +1,4 @@
-/*This is a C++ code to find number of specific alphabets in a given sentence
+/*This is a C++ code to find number of specific alphabets in a given sentence.
 NOTE- please change the "j" and "J" to any another alphabet to find (if you want) */
 #include<iostream>
 using namespace std;
