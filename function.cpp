@@ -1,3 +1,5 @@
+/*This is a c++ program for showing virtual fuction
+Note- "#include<string>" can be removed because it is of no use,I wrote it due to some reasons*/
 #include<iostream>
 #include <cstring>
 #include<string>
