@@ -1,4 +1,5 @@
-/* This is the c++ code to find the largest number */
+/* This is the c++ code to find the largest number
+dont use same numbers */
 #include<iostream>
 using namespace std;
 int main()
