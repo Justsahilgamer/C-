@@ -38,7 +38,7 @@ int main()
     cout<<" before overloading ";
     obj.display();
     cout<<" after overloading ";
-    obj .operator-();
+    obj.operator-();
     obj.display();
     }
     else
