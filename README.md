@@ -8,4 +8,4 @@ changes like-1. "add <conio.h>"
 THIS CODE 100% WORKS ON UPDATED C++ COMPILERS. like(g++,visual studio code).
 
 
-NOTE:that heirarchy.cpp is only for roll no 101.if you want that for any roll no contact me-https://www.instagram.com/justsahilgamer/
+NOTE:the heirarchy.cpp is only for roll no 101.if you want that for any roll no contact me-https://www.instagram.com/justsahilgamer/
