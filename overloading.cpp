@@ -44,6 +44,7 @@ int main()
     else
     {
         cout<<"please enter valid values"<<"\t";
+        cout<<"ProTip - Use a "-"(negative sign) before first number";
     }
      
 }
