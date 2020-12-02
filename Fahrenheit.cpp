@@ -1,3 +1,4 @@
+/*This is a c++ code to convert the value of temperature (Celsius) in Fahrenheit */
 #include<iostream>
 using namespace std;
 class temperature
