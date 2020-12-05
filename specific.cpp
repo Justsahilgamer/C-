@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    float a[9],p;
+    float a[10],p;
     int i,top,bot,mid;
     cout<<"type numbers in ascending= ";
     for(i=0;i<10;i++)
