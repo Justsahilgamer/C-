@@ -20,7 +20,7 @@ int main()
     mid=(top+bot)/2;
     while ((top<=bot)&&(a[mid]!=p))
     {
-        if (p,a[mid])
+        if (p<a[mid])
         bot=mid-1;
         else
         top=mid+1;
